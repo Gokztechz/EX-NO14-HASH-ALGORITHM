@@ -29,8 +29,7 @@ To implement HASH ALGORITHM
 
 
 ## Program:
-'''
-
+```
 #include <stdio.h>
 #include <string.h>
 
@@ -80,7 +79,7 @@ int main() {
 
     return 0;
 }
-'''
+```
 
 
 ## Output:
